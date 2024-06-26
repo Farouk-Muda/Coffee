@@ -1,2 +1,2 @@
 # Coffee
-Microsoft Excel used for data analysis
+Microsoft Excel used to analyse this data.
